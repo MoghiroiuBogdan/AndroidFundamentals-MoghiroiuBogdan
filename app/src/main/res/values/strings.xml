@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidFundamentalsSpring2023</string>
+    <string name="login" />
+    <string name="hello_world">8dp</string>
+    <string name="i_agree_to_receive_your_newsletter">i agree to receieve your newsletter</string>
+    <string name="please_add_your_email_address">enter your email</string>
+    <string name="turn">turn</string>
+    <string name="Hello_world">Hello, hello World!</string>
+    <string name="planets">planets</string>
+</resources>
